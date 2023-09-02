@@ -41,5 +41,6 @@ RecipeBuilder.newBuilder("miner_frozen", "miner_frozen", speed, 0)//这两个"mi
     .setChance(0.12f / 10.0f)
     .addItemOutput(<minecraft:snowball>)
     .setChance(7.0f / 10.0f)
-
+    .addItemOutput(<additions:greedycraft-germanium _ore>)
+    .setChance(0.2f / 10.0f)
     .build();//注册语句，不能省略，否则会报错
