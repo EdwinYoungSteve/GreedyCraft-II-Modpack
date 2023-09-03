@@ -335,8 +335,8 @@
                     "greedycraft:backgrounds/70.png"
                 ],
                 "shuffle": true,
-                "displayDuration": 90,
-                "fadeDuration": 40,
+                "displayDuration": 0,
+                "fadeDuration": 200,
                 "sync": true
             }
         }
