@@ -350,14 +350,6 @@ global omnipedia as IItemStack = <akashictome:tome>.withTag({
 			},
 			Damage: 0 as short
 		},
-		logisticspipes: {
-			id: "logisticspipes:guide_book",
-			Count: 1 as byte,
-			tag: {
-				"akashictome:definedMod": "logisticspipes"
-			},
-			Damage: 0 as short
-		},
 		bloodmagic: {
 			id: "bloodmagic:sanguine_book",
 			Count: 1 as byte,
