@@ -20,11 +20,6 @@
         "overrideClaimedChunk": false,
         "overridePlayerChunk": false
     }, {
-        "entityId": "ZombieAwareness.EntityScent",
-        "threshold": 20,
-        "overrideClaimedChunk": true,
-        "overridePlayerChunk": false
-    }, {
         "entityId": "com.github.tartaricacid.touhoulittlemaid.entity.passive.EntityMaid",
         "threshold": 100,
         "overrideClaimedChunk": false,
