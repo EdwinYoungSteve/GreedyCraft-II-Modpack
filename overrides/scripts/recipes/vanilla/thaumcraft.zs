@@ -4,7 +4,6 @@
  */ 
 
 #priority 20
-#packmode expert
 
 import thaumcraft.aspect.CTAspect;
 

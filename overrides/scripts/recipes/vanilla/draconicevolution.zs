@@ -4,7 +4,6 @@
  */ 
 
 #priority 1
-#packmode expert
 
 import moretweaker.draconicevolution.FusionCrafting;
 
