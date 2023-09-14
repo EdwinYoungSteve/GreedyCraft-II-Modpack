@@ -44,10 +44,38 @@ import mods.zenutils.DataUpdateOperation.REMOVE;
 import mods.zenutils.DataUpdateOperation.BUMP;
 import mods.zenutils.StaticString;
 import mods.nuclearcraft.RadiationScrubber;
+import mods.contenttweaker.Commands;
+import mods.randomtweaker.naturesaura.IAuraChunk;
 
 
 function lognum(a as int, b as int) as float {
     return (Math.log(b) as float / Math.log(a) as float) as float;
+}
+
+function getSpeed(entity as IEntityLivingBase) as double {
+    return Math.sqrt(pow(entity.motionX, 2) as double + pow(entity.motionY, 2) as double + pow(entity.motionZ, 2) as double) as double;
+}
+
+function drainAuraAroundPlayer(player as IPlayer, amount as int) as void {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    player.world.getAuraChunk(position).drainAura(position, amount);
+}
+
+function storeAuraAroundPlayer(player as IPlayer, amount as int) as void {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    player.world.getAuraChunk(position).storeAura(position, amount);
+}
+
+function isAuraLow(player as IPlayer, amount as int) as bool {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    if (player.world.getAuraChunk(position).getDrainSpot(position) <= amount) return true;
+    return false;
+}
+
+function isAuraHigh(player as IPlayer, amount as int) as bool {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    if (player.world.getAuraChunk(position).getDrainSpot(position) >= amount) return true;
+    return false;
 }
 
 val poopTrait = TraitBuilder.create("poopy");
@@ -1918,9 +1946,9 @@ aura_infusedTrait.onUpdate = function(trait, tool, world, owner, itemSlot, isSel
         var player as IPlayer = owner;
         if (!isNull(tool.tag.aura)) {
             var auraBefore as int = tool.tag.aura.asInt();
-            if (!(player.isPotionActive(<potion:naturesaura:breathless>))) {
+            if (isAuraHigh(player, 0)) {
                 if (auraBefore <= 1000000) {
-                    mods.contenttweaker.Commands.call("naaura drain 1000", player, player.world, false, true);
+                    drainAuraAroundPlayer(player, 1000);
                     tool.mutable().updateTag({aura : (auraBefore + 1000) as int});
                 }
             }
@@ -1945,8 +1973,8 @@ full_of_auraTrait.afterHit = function(trait, tool, attacker, target, damageDealt
     if (attacker instanceof IPlayer) {
         var player as IPlayer = attacker;
         if (target instanceof IEntityLivingBase && target.health == 0) {
-            var mtpstr = (Math.random() * 45000 + 5000) as string;
-            mods.contenttweaker.Commands.call("naaura store " + mtpstr, player, player.world, false, true);
+            var mtpstr as int = (Math.random() * 45000 + 5000) as int;
+            storeAuraAroundPlayer(player, mtpstr);
         }
     }
 };
