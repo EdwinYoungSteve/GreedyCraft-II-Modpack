@@ -50,10 +50,10 @@ events.onAttunementRecipeComplete(function(event as AttunementRecipeCompleteEven
                     var traitid as string = "tconevo.attuned_" + constell as string;
                     event.setOutput(TicTraitLib.addTicTraitAsItem(tool, traitid, 0x3cffff, 1));
                 } else {
-                    event.setOutput(tool);
+                    event.cancel();
                 }
             } else {
-                event.setOutput(tool);
+                event.cancel();
             }
         } else if (event.input.definition.ores has <ore:armorTiC>) {
             var armor = event.input;
@@ -72,10 +72,10 @@ events.onAttunementRecipeComplete(function(event as AttunementRecipeCompleteEven
                     var traitid as string = "tconevo.attuned_" + constell + "_armor" as string;
                     event.setOutput(TicTraitLib.addTicTraitAsItem(armor, traitid, 0x3cffff, 1));
                 } else {
-                    event.setOutput(armor);
+                    event.cancel();
                 }
             } else {
-                event.setOutput(armor);
+                event.cancel();
             }
         }
     }
