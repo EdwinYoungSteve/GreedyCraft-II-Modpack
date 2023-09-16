@@ -44,13 +44,12 @@ import mods.zenutils.DataUpdateOperation.REMOVE;
 import mods.zenutils.DataUpdateOperation.BUMP;
 import mods.zenutils.StaticString;
 import mods.nuclearcraft.RadiationScrubber;
+import mods.contenttweaker.Commands;
+import mods.randomtweaker.naturesaura.IAuraChunk;
 
 function lognum(a as int, b as int) as float {
     return (Math.log(b) as float / Math.log(a) as float) as float;
 }
-
-import mods.contenttweaker.Commands;
-import mods.randomtweaker.naturesaura.IAuraChunk;
 
 function getSpeed(entity as IEntityLivingBase) as double {
     return Math.sqrt(pow(entity.motionX, 2) as double + pow(entity.motionY, 2) as double + pow(entity.motionZ, 2) as double) as double;
