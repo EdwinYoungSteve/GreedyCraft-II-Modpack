@@ -44,6 +44,34 @@ import mods.zenutils.DataUpdateOperation.REMOVE;
 import mods.zenutils.DataUpdateOperation.BUMP;
 import mods.zenutils.StaticString;
 import mods.nuclearcraft.RadiationScrubber;
+import mods.contenttweaker.Commands;
+import mods.randomtweaker.naturesaura.IAuraChunk;
+
+function getSpeed(entity as IEntityLivingBase) as double {
+    return Math.sqrt(pow(entity.motionX, 2) as double + pow(entity.motionY, 2) as double + pow(entity.motionZ, 2) as double) as double;
+}
+
+function drainAuraAroundPlayer(player as IPlayer, amount as int) as void {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    player.world.getAuraChunk(position).drainAura(position, amount);
+}
+
+function storeAuraAroundPlayer(player as IPlayer, amount as int) as void {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    player.world.getAuraChunk(position).storeAura(position, amount);
+}
+
+function isAuraLow(player as IPlayer, amount as int) as bool {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    if (player.world.getAuraChunk(position).getDrainSpot(position) <= amount) return true;
+    return false;
+}
+
+function isAuraHigh(player as IPlayer, amount as int) as bool {
+    var position as IBlockPos = Position3f.create(player.x as float, player.y as float, player.z as float) as IBlockPos;
+    if (player.world.getAuraChunk(position).getDrainSpot(position) >= amount) return true;
+    return false;
+}
 
 // Calculates what the effect of one piece of armor should be
 // Many traits are implemented to bethe effect of 4 pieces of armor stacked together; This turns them into what the effect of a single armor piece should be.
@@ -1424,9 +1452,9 @@ aura_infusedTrait.onUpdate = function(trait, armor, world, owner, itemSlot, isSe
         var player as IPlayer = owner;
         if (!isNull(armor.tag.aura)) {
             var auraBefore as int = armor.tag.aura.asInt();
-            if (!(player.isPotionActive(<potion:naturesaura:breathless>))) {
+            if (isAuraHigh(player, 0)) {
                 if (auraBefore <= 250000) {
-                    mods.contenttweaker.Commands.call("naaura drain 1000", player, player.world, false, true);
+                    drainAuraAroundPlayer(player, 1000);
                     armor.mutable().updateTag({aura : (auraBefore + 1000) as int});
                 }
             }
@@ -1449,8 +1477,8 @@ full_of_auraTrait.localizedName = game.localize("greedycraft.tconstruct.armor_tr
 full_of_auraTrait.localizedDescription = game.localize("greedycraft.tconstruct.armor_trait.full_of_auraTrait.desc");
 full_of_auraTrait.onHurt = function(trait, armor, player, source, damage, newDamage, evt) {
     if(!isNull(player)) {
-        var mtpstr = (Math.random() * 4500 + 500) as string;
-        mods.contenttweaker.Commands.call("naaura store " + mtpstr, player, player.world, false, true);
+        var mtpstr as int = (Math.random() * 4500 + 500) as int;
+        storeAuraAroundPlayer(player, mtpstr as int);
     }
     return newDamage;
 };
