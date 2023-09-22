@@ -1,6 +1,6 @@
 
 {
-  "ID": 284,
+  "ID": 271,
   "Name": "Curruptplain",
   "Resource Location": "gct_mobs:curruptplain",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeCurruptplain$BiomeGenCustom",

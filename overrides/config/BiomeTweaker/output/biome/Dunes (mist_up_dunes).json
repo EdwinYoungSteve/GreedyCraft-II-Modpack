@@ -1,6 +1,6 @@
 
 {
-  "ID": 145,
+  "ID": 144,
   "Name": "Dunes",
   "Resource Location": "mist:up_dunes",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpDesert",
@@ -20,10 +20,10 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "DRY",
     "SANDY",
-    "HILLS",
     "HOT",
-    "DRY"
+    "HILLS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

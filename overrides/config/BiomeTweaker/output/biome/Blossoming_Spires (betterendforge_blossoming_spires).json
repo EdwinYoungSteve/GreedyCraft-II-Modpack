@@ -1,6 +1,6 @@
 
 {
-  "ID": 329,
+  "ID": 316,
   "Name": "Blossoming Spires",
   "Resource Location": "betterendforge:blossoming_spires",
   "Class": "net.mcreator.betterendforge.world.biome.BiomeBlossomingSpires$BiomeGenCustom",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "PLAINS",
-    "DRY"
+    "DRY",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 338,
+  "ID": 334,
   "Name": "Swamplands Clearing",
   "Resource Location": "thebetweenlands:swamplands_clearing",
   "Class": "thebetweenlands.common.world.biome.BiomeSwamplandsClearing",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "DENSE",
     "WATER",
     "SWAMP",
+    "WET",
+    "DENSE",
     "FOREST"
   ],
   "BiomeManager Entries": {},

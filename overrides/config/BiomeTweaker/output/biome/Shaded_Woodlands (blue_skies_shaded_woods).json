@@ -1,6 +1,6 @@
 
 {
-  "ID": 346,
+  "ID": 323,
   "Name": "Shaded Woodlands",
   "Resource Location": "blue_skies:shaded_woods",
   "Class": "com.legacy.blue_skies.world.everdawn.biome.BiomeShadedWoods",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DENSE",
     "SPOOKY",
-    "PLAINS",
     "LUSH",
+    "PLAINS",
+    "DENSE",
     "FOREST"
   ],
   "BiomeManager Entries": {},

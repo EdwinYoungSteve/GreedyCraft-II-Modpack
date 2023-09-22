@@ -1,6 +1,6 @@
 
 {
-  "ID": 293,
+  "ID": 280,
   "Name": "Alfheim Forest",
   "Resource Location": "gct_mobs:alfheim_forest",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeAlfheimForest$BiomeGenCustom",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "MAGICAL"
+    "MAGICAL",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 315,
+  "ID": 302,
   "Name": "Darklands Mountains",
   "Resource Location": "abyssalcraft:darklands_mountains",
   "Class": "com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsMountains",

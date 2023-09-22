@@ -1,6 +1,6 @@
 
 {
-  "ID": 181,
+  "ID": 180,
   "Name": "Down Forest",
   "Resource Location": "mist:down_forest",
   "Class": "ru.liahim.mist.world.biome.BiomeMistDownForest",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DEAD",
-    "SPOOKY"
+    "SPOOKY",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

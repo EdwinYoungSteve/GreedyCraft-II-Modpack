@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "LUSH",
+    "PLAINS",
     "WET",
     "SPARSE",
-    "PLAINS",
-    "LUSH",
     "COLD",
     "FOREST"
   ],
@@ -544,8 +544,8 @@
   },
   "BOP Owner": "BIOMESOPLENTY",
   "BOP Weight Map": {
-    "BOREAL": 7,
-    "COOL_TEMPERATE": 3
+    "COOL_TEMPERATE": 3,
+    "BOREAL": 7
   },
   "BOP Climate Weights": {
     "BOREAL": [

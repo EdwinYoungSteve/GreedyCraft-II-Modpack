@@ -1,6 +1,6 @@
 
 {
-  "ID": 146,
+  "ID": 145,
   "Name": "Snowfields",
   "Resource Location": "mist:up_snowfields",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpColdBase",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "PLAINS",
     "CONIFEROUS",
-    "COLD",
-    "SNOWY"
+    "PLAINS",
+    "SNOWY",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

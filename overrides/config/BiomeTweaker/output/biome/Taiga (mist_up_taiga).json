@@ -1,6 +1,6 @@
 
 {
-  "ID": 147,
+  "ID": 146,
   "Name": "Taiga",
   "Resource Location": "mist:up_taiga",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpColdBase",
@@ -21,9 +21,9 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "CONIFEROUS",
+    "SNOWY",
     "COLD",
-    "FOREST",
-    "SNOWY"
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

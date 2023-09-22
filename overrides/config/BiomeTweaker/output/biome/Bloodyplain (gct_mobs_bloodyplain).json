@@ -1,6 +1,6 @@
 
 {
-  "ID": 283,
+  "ID": 270,
   "Name": "Bloodyplain",
   "Resource Location": "gct_mobs:bloodyplain",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeBloodyplain$BiomeGenCustom",

@@ -1,6 +1,6 @@
 
 {
-  "ID": 295,
+  "ID": 282,
   "Name": "Aries Forest",
   "Resource Location": "gct_mobs:aries_forest",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeAriesForest$BiomeGenCustom",

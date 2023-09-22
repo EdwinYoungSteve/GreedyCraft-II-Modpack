@@ -1,6 +1,6 @@
 
 {
-  "ID": 178,
+  "ID": 177,
   "Name": "Down Border",
   "Resource Location": "mist:border_down",
   "Class": "ru.liahim.mist.world.biome.BiomeMistBorderDown",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DEAD",
-    "SPOOKY"
+    "SPOOKY",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

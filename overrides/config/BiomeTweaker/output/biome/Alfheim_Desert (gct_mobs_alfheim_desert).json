@@ -1,6 +1,6 @@
 
 {
-  "ID": 290,
+  "ID": 277,
   "Name": "Alfheim Desert",
   "Resource Location": "gct_mobs:alfheim_desert",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeAlfheimDesert$BiomeGenCustom",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SANDY",
-    "DRY"
+    "DRY",
+    "SANDY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 182,
+  "ID": 181,
   "Name": "Down Swamp",
   "Resource Location": "mist:down_swamp",
   "Class": "ru.liahim.mist.world.biome.BiomeMistDownSwamp",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DEAD",
-    "SPOOKY"
+    "SPOOKY",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

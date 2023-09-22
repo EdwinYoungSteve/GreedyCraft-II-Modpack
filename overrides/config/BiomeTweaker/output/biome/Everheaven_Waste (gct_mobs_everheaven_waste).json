@@ -1,6 +1,6 @@
 
 {
-  "ID": 286,
+  "ID": 273,
   "Name": "Everheaven Waste",
   "Resource Location": "gct_mobs:everheaven_waste",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeEverheavenWaste$BiomeGenCustom",

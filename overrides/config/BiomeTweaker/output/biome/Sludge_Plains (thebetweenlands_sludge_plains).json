@@ -1,6 +1,6 @@
 
 {
-  "ID": 335,
+  "ID": 331,
   "Name": "Sludge Plains",
   "Resource Location": "thebetweenlands:sludge_plains",
   "Class": "thebetweenlands.common.world.biome.BiomeSludgePlains",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "DEAD",
+    "SWAMP",
     "WASTELAND",
-    "SWAMP"
+    "WET",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

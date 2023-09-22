@@ -1,6 +1,6 @@
 
 {
-  "ID": 308,
+  "ID": 295,
   "Name": "Void Hill",
   "Resource Location": "gct_ores:void_hill",
   "Class": "net.mcreator.gctores.world.biome.BiomeVoidHill$BiomeGenCustom",
@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DEAD",
+    "DRY",
     "WASTELAND",
-    "HOT",
     "VOID",
-    "DRY"
+    "DEAD",
+    "HOT"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 173,
+  "ID": 172,
   "Name": "Plains Border",
   "Resource Location": "mist:border_plains",
   "Class": "ru.liahim.mist.world.biome.BiomeMistBorderUp",

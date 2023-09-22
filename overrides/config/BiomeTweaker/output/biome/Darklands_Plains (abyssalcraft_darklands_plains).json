@@ -1,6 +1,6 @@
 
 {
-  "ID": 313,
+  "ID": 300,
   "Name": "Darklands Plains",
   "Resource Location": "abyssalcraft:darklands_plains",
   "Class": "com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsPlains",

@@ -1,6 +1,6 @@
 
 {
-  "ID": 291,
+  "ID": 278,
   "Name": "Alfheim Desert Hill",
   "Resource Location": "gct_mobs:alfheim_desert_hill",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeAlfheimDesertHill$BiomeGenCustom",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SANDY",
-    "DRY"
+    "DRY",
+    "SANDY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

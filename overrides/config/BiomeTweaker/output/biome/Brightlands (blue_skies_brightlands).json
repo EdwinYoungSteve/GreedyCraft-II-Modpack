@@ -1,6 +1,6 @@
 
 {
-  "ID": 341,
+  "ID": 318,
   "Name": "Brightlands",
   "Resource Location": "blue_skies:brightlands",
   "Class": "com.legacy.blue_skies.world.everbright.biome.BiomeBrightlands",
@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "HILLS",
     "MOUNTAIN",
-    "COLD",
     "SNOWY",
-    "MAGICAL"
+    "MAGICAL",
+    "COLD",
+    "HILLS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

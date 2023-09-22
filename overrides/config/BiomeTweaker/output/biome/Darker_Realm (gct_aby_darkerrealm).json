@@ -1,6 +1,6 @@
 
 {
-  "ID": 281,
+  "ID": 268,
   "Name": "Darker Realm",
   "Resource Location": "gct_aby:darkerrealm",
   "Class": "net.mcreator.gct_aby.world.biome.BiomeDarkerRealm$BiomeGenCustom",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "PLAINS",
-    "DRY"
+    "DRY",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

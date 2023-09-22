@@ -1,6 +1,6 @@
 
 {
-  "ID": 282,
+  "ID": 269,
   "Name": "Warped",
   "Resource Location": "gct_aby:warped",
   "Class": "net.mcreator.gct_aby.world.biome.BiomeWarped$BiomeGenCustom",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "DRY",
     "PLAINS",
     "HOT",
-    "SAVANNA",
-    "DRY"
+    "SAVANNA"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

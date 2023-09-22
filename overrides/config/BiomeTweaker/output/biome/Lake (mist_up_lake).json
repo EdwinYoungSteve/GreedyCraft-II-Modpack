@@ -1,6 +1,6 @@
 
 {
-  "ID": 169,
+  "ID": 168,
   "Name": "Lake",
   "Resource Location": "mist:up_lake",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpMeadow",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
     "WATER",
+    "WET",
     "RIVER"
   ],
   "BiomeManager Entries": {},

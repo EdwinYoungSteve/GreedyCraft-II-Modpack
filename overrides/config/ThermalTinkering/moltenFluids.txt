@@ -161,7 +161,7 @@ liquidswampsteel                                  (moretcon:liquidswampsteel)   
 betwnite                                          (jaopca:fluid_moltenbetwnite)                                                    = ÈÛÈÚ½»´í¸Ö
 wolframium                                        (contenttweaker:wolframium)                                                      = ÈÛÈÚÎÙ
 endorium                                          (jaopca:fluid_moltenendorium)                                                    = ÈÛÈÚÖÕÄ©
-liquidebonite                                     (moretcon:liquidebonite)                                                         = ÈÛÈÚºÚÌ´
+liquidebonite                                     (moretcon:liquidebonite)                                                         = fluid.moretcon.liquidebonite
 ivorium                                           (jaopca:fluid_moltenivorium)                                                     = ÈÛÈÚÏóÑÀ
 dragonsteel_fire                                  (tconstruct:molten_dragonsteel_fire)                                             = ÈÛÈÚÁúÑ×¸Ö
 dragonsteel_ice                                   (tconstruct:molten_dragonsteel_ice)                                              = ÈÛÈÚÁúËª¸Ö 
@@ -246,10 +246,10 @@ alumite                                           (plustic:plustic.molten_alumit
 osgloglas                                         (plustic:plustic.molten_osgloglas)                                               = ÈÛÈÚï°Ó«ºÚê×ºÏ½ğ
 osmiridium                                        (plustic:plustic.molten_osmiridium)                                              = ÈÛÈÚÒ¿ï°ºÏ½ğ
 liquidfusionite                                   (moretcon:liquidfusionite)                                                       = ÈÛÈÚ¾Û±ä
-liquidirradium                                    (moretcon:liquidirradium)                                                        = ÈÛÈÚÒ¿ÀØºÏ½ğ
-liquidsolarsteel                                  (moretcon:liquidsolarsteel)                                                      = ÈÛÈÚÌ«Ñô¸Ö
+liquidirradium                                    (moretcon:liquidirradium)                                                        = ÈÛÈÚÒ¿ÀØ
+liquidsolarsteel                                  (moretcon:liquidsolarsteel)                                                      = ÈÛÈÚ¸ÖÌú
 liquidrunesteel                                   (moretcon:liquidrunesteel)                                                       = ÈÛÈÚ·ûÎÄ¸Ö
-liquidgravitonium                                 (moretcon:liquidgravitonium)                                                     = ÈÛÈÚÖØÁ¦½ğ
+liquidgravitonium                                 (moretcon:liquidgravitonium)                                                     = ÈÛÈÚÖØÁ¦æf
 liquidtrichromadentium                            (moretcon:liquidtrichromadentium)                                                = ÈÛÈÚÈıÉ«ºÏ½ğ
 liquidatronium                                    (moretcon:liquidatronium)                                                        = ÈÛÈÚ°¢ÍĞÄáÄ·
 liquidarkenium                                    (moretcon:liquidarkenium)                                                        = ÈÛÈÚ°¢¿Ï¸Ö

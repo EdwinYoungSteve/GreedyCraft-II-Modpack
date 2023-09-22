@@ -1,6 +1,6 @@
 
 {
-  "ID": 289,
+  "ID": 276,
   "Name": "Alfheim Hill",
   "Resource Location": "gct_mobs:alfheim_plain_hill",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeAlfheimPlainHill$BiomeGenCustom",

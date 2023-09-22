@@ -1,6 +1,6 @@
 
 {
-  "ID": 320,
+  "ID": 307,
   "Name": "Dreadlands Forest",
   "Resource Location": "abyssalcraft:dreadlands_forest",
   "Class": "com.shinoow.abyssalcraft.common.world.biome.BiomeGenForestDreadlands",

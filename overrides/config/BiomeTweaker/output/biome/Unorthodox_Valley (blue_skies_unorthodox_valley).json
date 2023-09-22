@@ -1,6 +1,6 @@
 
 {
-  "ID": 345,
+  "ID": 322,
   "Name": "Unorthodox Valley",
   "Resource Location": "blue_skies:unorthodox_valley",
   "Class": "com.legacy.blue_skies.world.everdawn.biome.BiomeUnorthodoxValley",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HILLS",
     "MOUNTAIN",
-    "MAGICAL"
+    "MAGICAL",
+    "HILLS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

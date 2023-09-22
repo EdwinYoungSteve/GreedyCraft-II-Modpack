@@ -1,6 +1,6 @@
 
 {
-  "ID": 310,
+  "ID": 297,
   "Name": "Order Plain",
   "Resource Location": "gct_ores:order_plain",
   "Class": "net.mcreator.gctores.world.biome.BiomeOrderPlain$BiomeGenCustom",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPARSE",
+    "DRY",
     "PLAINS",
-    "DRY"
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 187,
+  "ID": 186,
   "Name": "Willow Swamp",
   "Resource Location": "pvj:willow_swamp",
   "Class": "vibrantjourneys.biomes.BiomeWillowSwamp",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
+    "SWAMP",
     "LUSH",
-    "SWAMP"
+    "WET"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [

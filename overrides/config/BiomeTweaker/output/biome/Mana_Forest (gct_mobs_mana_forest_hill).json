@@ -1,6 +1,6 @@
 
 {
-  "ID": 288,
+  "ID": 275,
   "Name": "Mana Forest",
   "Resource Location": "gct_mobs:mana_forest_hill",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeManaForestHill$BiomeGenCustom",

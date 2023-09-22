@@ -1,6 +1,6 @@
 
 {
-  "ID": 328,
+  "ID": 315,
   "Name": "Dust Wastelands",
   "Resource Location": "betterendforge:dust_wastelands",
   "Class": "net.mcreator.betterendforge.world.biome.BiomeDustWastelands$BiomeGenCustom",
@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "DRY",
     "PLAINS",
     "HOT",
-    "SAVANNA",
-    "DRY"
+    "SAVANNA"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],

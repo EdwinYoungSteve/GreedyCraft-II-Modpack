@@ -1,6 +1,6 @@
 
 {
-  "ID": 299,
+  "ID": 286,
   "Name": "Leo Badlands",
   "Resource Location": "gct_mobs:leo_badlands",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeLeoBadlands$BiomeGenCustom",

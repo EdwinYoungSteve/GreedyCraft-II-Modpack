@@ -1,6 +1,6 @@
 
 {
-  "ID": 170,
+  "ID": 169,
   "Name": "Lowland",
   "Resource Location": "mist:up_lowland",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpLowland",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "JUNGLE"
+    "JUNGLE",
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 344,
+  "ID": 321,
   "Name": "Frostbitten Forest",
   "Resource Location": "blue_skies:frostbit_forest",
   "Class": "com.legacy.blue_skies.world.everbright.biome.BiomeFrostbitForest",
@@ -20,13 +20,13 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "DENSE",
-    "PLAINS",
     "LUSH",
+    "PLAINS",
+    "SNOWY",
+    "MAGICAL",
     "COLD",
     "FOREST",
-    "SNOWY",
-    "MAGICAL"
+    "DENSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

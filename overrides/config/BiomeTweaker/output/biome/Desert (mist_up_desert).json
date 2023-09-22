@@ -1,6 +1,6 @@
 
 {
-  "ID": 144,
+  "ID": 143,
   "Name": "Desert",
   "Resource Location": "mist:up_desert",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpDesert",
@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "DRY",
     "SANDY",
-    "HOT",
-    "DRY"
+    "HOT"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

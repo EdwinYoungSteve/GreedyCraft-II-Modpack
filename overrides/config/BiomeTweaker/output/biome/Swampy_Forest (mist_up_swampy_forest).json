@@ -1,6 +1,6 @@
 
 {
-  "ID": 153,
+  "ID": 152,
   "Name": "Swampy Forest",
   "Resource Location": "mist:up_swampy_forest",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpSwampyForest",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
     "SWAMP",
+    "WET",
     "FOREST"
   ],
   "BiomeManager Entries": {},

@@ -1,6 +1,6 @@
 
 {
-  "ID": 303,
+  "ID": 290,
   "Name": "Pisces Ocean",
   "Resource Location": "gct_mobs:pisces_ocean",
   "Class": "net.mcreator.gctmobs.world.biome.BiomePiscesOcean$BiomeGenCustom",

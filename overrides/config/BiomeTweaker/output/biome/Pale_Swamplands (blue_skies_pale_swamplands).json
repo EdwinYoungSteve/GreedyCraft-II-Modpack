@@ -1,6 +1,6 @@
 
 {
-  "ID": 343,
+  "ID": 320,
   "Name": "Pale Swamplands",
   "Resource Location": "blue_skies:pale_swamplands",
   "Class": "com.legacy.blue_skies.world.everbright.biome.BiomePaleSwamplands",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "PLAINS",
     "SWAMP",
+    "PLAINS",
     "SNOWY",
     "MAGICAL"
   ],

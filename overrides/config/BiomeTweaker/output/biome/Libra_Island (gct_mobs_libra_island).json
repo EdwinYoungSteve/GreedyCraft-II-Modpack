@@ -1,6 +1,6 @@
 
 {
-  "ID": 306,
+  "ID": 293,
   "Name": "Libra Island",
   "Resource Location": "gct_mobs:libra_island",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeLibraIsland$BiomeGenCustom",

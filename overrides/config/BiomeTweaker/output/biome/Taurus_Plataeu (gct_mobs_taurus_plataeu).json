@@ -1,6 +1,6 @@
 
 {
-  "ID": 296,
+  "ID": 283,
   "Name": "Taurus Plataeu",
   "Resource Location": "gct_mobs:taurus_plataeu",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeTaurusPlataeu$BiomeGenCustom",

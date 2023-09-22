@@ -1,6 +1,6 @@
 
 {
-  "ID": 189,
+  "ID": 188,
   "Name": "Snowy Boreal Forest",
   "Resource Location": "pvj:snowy_boreal_forest",
   "Class": "vibrantjourneys.biomes.BiomeBorealForest",
@@ -21,9 +21,9 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "CONIFEROUS",
+    "SNOWY",
     "COLD",
-    "FOREST",
-    "SNOWY"
+    "FOREST"
   ],
   "BiomeManager Entries": {
     "ICY Weights": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 301,
+  "ID": 288,
   "Name": "Capricorns Cliffs",
   "Resource Location": "gct_mobs:capricorns_cliffs",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeCapricornsCliffs$BiomeGenCustom",

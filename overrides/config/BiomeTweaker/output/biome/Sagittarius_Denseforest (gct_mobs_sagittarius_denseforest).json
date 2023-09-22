@@ -1,6 +1,6 @@
 
 {
-  "ID": 304,
+  "ID": 291,
   "Name": "Sagittarius Denseforest",
   "Resource Location": "gct_mobs:sagittarius_denseforest",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeSagittariusDenseforest$BiomeGenCustom",

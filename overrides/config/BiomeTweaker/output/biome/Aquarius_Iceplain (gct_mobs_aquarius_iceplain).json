@@ -1,6 +1,6 @@
 
 {
-  "ID": 302,
+  "ID": 289,
   "Name": "Aquarius Iceplain",
   "Resource Location": "gct_mobs:aquarius_iceplain",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeAquariusIceplain$BiomeGenCustom",

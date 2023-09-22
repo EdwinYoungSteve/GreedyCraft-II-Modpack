@@ -1,6 +1,6 @@
 
 {
-  "ID": 154,
+  "ID": 153,
   "Name": "Jungle",
   "Resource Location": "mist:up_jungle",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpJungle",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "LUSH",
     "JUNGLE",
+    "LUSH",
+    "WET",
     "FOREST"
   ],
   "BiomeManager Entries": {},

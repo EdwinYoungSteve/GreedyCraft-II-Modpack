@@ -1,6 +1,6 @@
 
 {
-  "ID": 152,
+  "ID": 150,
   "Name": "Swampy Meadow",
   "Resource Location": "mist:up_swampy_meadow",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpSwampyMeadow",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
+    "SWAMP",
     "PLAINS",
-    "SWAMP"
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

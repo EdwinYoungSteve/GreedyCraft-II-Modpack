@@ -1,6 +1,6 @@
 
 {
-  "ID": 298,
+  "ID": 285,
   "Name": "Cancer Hills",
   "Resource Location": "gct_mobs:cancer_hills",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeCancerHills$BiomeGenCustom",

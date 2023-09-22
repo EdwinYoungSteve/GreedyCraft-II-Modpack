@@ -1,6 +1,6 @@
 
 {
-  "ID": 300,
+  "ID": 287,
   "Name": "Vergo Plain",
   "Resource Location": "gct_mobs:virgo_plain",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeVirgoPlain$BiomeGenCustom",

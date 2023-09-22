@@ -1,6 +1,6 @@
 
 {
-  "ID": 171,
+  "ID": 170,
   "Name": "Cold Lowland",
   "Resource Location": "mist:up_cold_lowland",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpColdBase",
@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "WET",
     "WATER",
-    "RIVER",
+    "WET",
+    "SNOWY",
     "COLD",
-    "SNOWY"
+    "RIVER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

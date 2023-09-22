@@ -1,6 +1,6 @@
 
 {
-  "ID": 305,
+  "ID": 292,
   "Name": "Scorpio Desert",
   "Resource Location": "gct_mobs:scorpio_desert",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeScorpioDesert$BiomeGenCustom",

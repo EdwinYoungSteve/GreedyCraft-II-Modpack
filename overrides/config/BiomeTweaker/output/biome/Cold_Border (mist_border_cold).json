@@ -1,6 +1,6 @@
 
 {
-  "ID": 175,
+  "ID": 174,
   "Name": "Cold Border",
   "Resource Location": "mist:border_cold",
   "Class": "ru.liahim.mist.world.biome.BiomeMistBorderUp",
@@ -21,8 +21,8 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "WASTELAND",
-    "COLD",
-    "SNOWY"
+    "SNOWY",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

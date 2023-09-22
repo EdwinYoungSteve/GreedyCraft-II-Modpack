@@ -1,6 +1,6 @@
 
 {
-  "ID": 297,
+  "ID": 284,
   "Name": "Gemini Valley",
   "Resource Location": "gct_mobs:gemini_valley",
   "Class": "net.mcreator.gctmobs.world.biome.BiomeGeminiValley$BiomeGenCustom",

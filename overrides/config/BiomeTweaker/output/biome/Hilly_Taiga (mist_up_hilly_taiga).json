@@ -1,6 +1,6 @@
 
 {
-  "ID": 148,
+  "ID": 147,
   "Name": "Hilly Taiga",
   "Resource Location": "mist:up_hilly_taiga",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpColdBase",
@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "HILLS",
     "CONIFEROUS",
+    "SNOWY",
     "COLD",
-    "FOREST",
-    "SNOWY"
+    "HILLS",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

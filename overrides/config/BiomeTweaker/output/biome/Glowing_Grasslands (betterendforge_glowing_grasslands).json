@@ -1,6 +1,6 @@
 
 {
-  "ID": 326,
+  "ID": 313,
   "Name": "Glowing Grasslands",
   "Resource Location": "betterendforge:glowing_grasslands",
   "Class": "net.mcreator.betterendforge.world.biome.BiomeGlowingGrasslands$BiomeGenCustom",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "PLAINS",
-    "DRY"
+    "DRY",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

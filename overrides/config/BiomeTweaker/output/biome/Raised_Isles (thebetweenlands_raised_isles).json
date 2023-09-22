@@ -1,6 +1,6 @@
 
 {
-  "ID": 334,
+  "ID": 330,
   "Name": "Raised Isles",
   "Resource Location": "thebetweenlands:raised_isles",
   "Class": "thebetweenlands.common.world.biome.BiomeRaisedIsles",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
     "WATER",
-    "SWAMP"
+    "SWAMP",
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "ID": 141,
+  "ID": 139,
   "Name": "Forest",
   "Resource Location": "mist:up_forest",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpForest",

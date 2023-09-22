@@ -1,6 +1,6 @@
 
 {
-  "ID": 183,
+  "ID": 182,
   "Name": "Down Center",
   "Resource Location": "mist:down_center",
   "Class": "ru.liahim.mist.world.biome.BiomeMistDownCenter",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DEAD",
-    "SPOOKY"
+    "SPOOKY",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

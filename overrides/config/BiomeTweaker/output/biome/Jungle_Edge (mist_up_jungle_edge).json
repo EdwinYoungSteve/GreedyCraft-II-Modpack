@@ -1,6 +1,6 @@
 
 {
-  "ID": 159,
+  "ID": 154,
   "Name": "Jungle Edge",
   "Resource Location": "mist:up_jungle_edge",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpJungleEdge",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "JUNGLE"
+    "JUNGLE",
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

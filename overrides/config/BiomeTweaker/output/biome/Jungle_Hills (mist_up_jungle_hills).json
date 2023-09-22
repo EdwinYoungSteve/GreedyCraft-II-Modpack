@@ -1,6 +1,6 @@
 
 {
-  "ID": 168,
+  "ID": 159,
   "Name": "Jungle Hills",
   "Resource Location": "mist:up_jungle_hills",
   "Class": "ru.liahim.mist.world.biome.BiomeMistUpJungle",
@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HILLS",
-    "LUSH",
     "JUNGLE",
+    "LUSH",
+    "HILLS",
     "FOREST"
   ],
   "BiomeManager Entries": {},
