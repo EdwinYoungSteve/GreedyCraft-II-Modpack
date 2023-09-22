@@ -4,6 +4,7 @@
  */ 
 
 #priority 1
+#packmode expert
 
 import moretweaker.draconicevolution.FusionCrafting;
 
@@ -148,6 +149,17 @@ FusionCrafting.add(<solarflux:solar_panel_draconic>, <solarflux:solar_panel_wyve
     <draconicevolution:draconic_energy_core>,
     <draconicevolution:draconic_energy_core>,
     <draconicevolution:draconic_energy_core>
+]);
+
+FusionCrafting.add(<solarflux:custom_solar_panel_cosmic_solar_panel>, <solarflux:solar_panel_chaotic>, 3, 6553600000, [ 
+    <additions:cosmilite_ingot>,
+    <additions:cosmilite_ingot>,
+    <additions:cosmilite_ingot>,
+    <additions:cosmilite_ingot>,
+    <draconicadditions:chaotic_energy_core>,
+    <draconicadditions:chaotic_energy_core>,
+    <draconicadditions:chaotic_energy_core>,
+    <draconicadditions:chaotic_energy_core>
 ]);
 
 FusionCrafting.add(<draconicevolution:reactor_core>, <draconicevolution:chaos_shard>, 3, 13107200000, [ 

@@ -3,7 +3,8 @@
  * You may NOT use this script in any other publicly distributed modpack without my permission. 
  */ 
 
-#priority 40
+#priority 20
+#packmode expert
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;

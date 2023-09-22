@@ -4,6 +4,7 @@
  */
 
 #priority 20
+#packmode expert
 
 #norun
 
