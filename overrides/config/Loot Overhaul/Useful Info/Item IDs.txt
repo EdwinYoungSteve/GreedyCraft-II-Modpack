@@ -6108,9 +6108,6 @@ projecte:item.pe_catalitic_lens - 9790
 projecte:item.pe_tome - 9791
 projecte:item.pe_transmutation_tablet - 9792
 projecte:item.pe_manual - 9793
-ae2wtlib:infinity_booster_card - 9794
-ae2wtlib:wut - 9795
-ae2wtlib:wut_creative - 9796
 aeble:bubble_ring - 9797
 aeble:valkyrie_belt - 9798
 aeble:regeneration_ring - 9799
@@ -10351,15 +10348,6 @@ waystones:return_scroll - 14033
 waystones:bound_scroll - 14034
 waystones:warp_scroll - 14035
 waystones:warp_stone - 14036
-wct:wct - 14037
-wct:wct_creative - 14038
-wct:magnet_card - 14039
-wft:wft - 14040
-wft:wft_creative - 14041
-wit:wit - 14042
-wit:wit_creative - 14043
-wpt:wpt - 14044
-wpt:wpt_creative - 14045
 xlfoodmod:rock_salt - 14046
 xlfoodmod:grass - 14047
 xlfoodmod:vanilla_flower - 14048

@@ -139,11 +139,6 @@
         "unitWorth": 20000,
         "weight": 20
     },
-    {
-        "content": "ae2wtlib:infinity_booster_card",
-        "unitWorth": 2000,
-        "weight": 20
-    },
 	{
         "content": "thermalfoundation:material:160",
         "unitWorth": 1800,

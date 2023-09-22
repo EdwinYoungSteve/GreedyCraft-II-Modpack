@@ -1902,11 +1902,6 @@
                 },
                 {
                     "amount": "[1,1]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
-                },
-                {
-                    "amount": "[1,1]",
                     "chance": 0.2,
                     "item": "additions:greedycraft-reward_ticket_rare"
                 },
@@ -1921,11 +1916,6 @@
                     "amount": "[1,2]",
                     "chance": 1.0,
                     "item": "progressivebosses:nether_star_shard"
-                },
-                {
-                    "amount": "[1,2]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
                 },
                 {
                     "amount": "[1,1]",
@@ -1955,11 +1945,6 @@
                     "item": "progressivebosses:nether_star_shard"
                 },
                 {
-                    "amount": "[2,3]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
-                },
-                {
                     "amount": "[1,1]",
                     "chance": 0.1,
                     "item": "additions:greedycraft-reward_ticket_epic"
@@ -1980,11 +1965,6 @@
                     "amount": "[2,4]",
                     "chance": 1.0,
                     "item": "progressivebosses:nether_star_shard"
-                },
-                {
-                    "amount": "[3,5]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
                 },
                 {
                     "amount": "[1,1]",
@@ -2014,11 +1994,6 @@
                     "item": "progressivebosses:nether_star_shard"
                 },
                 {
-                    "amount": "[5,8]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
-                },
-                {
                     "amount": "[1,1]",
                     "chance": 0.2,
                     "item": "additions:greedycraft-reward_ticket_epic"
@@ -2041,11 +2016,6 @@
                     "item": "minecraft:nether_star"
                 },
                 {
-                    "amount": "[6,9]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
-                },
-                {
                     "amount": "[1,1]",
                     "chance": 0.015,
                     "item": "additions:greedycraft-reward_ticket_legendary"
@@ -2061,11 +2031,6 @@
                     "amount": "[3,5]",
                     "chance": 1.0,
                     "item": "minecraft:nether_star"
-                },
-                {
-                    "amount": "[7,11]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
                 },
                 {
                     "amount": "[1,1]",
@@ -2085,11 +2050,6 @@
                     "item": "minecraft:nether_star"
                 },
                 {
-                    "amount": "[4,5]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
-                },
-                {
                     "amount": "[1,1]",
                     "chance": 0.02,
                     "item": "additions:greedycraft-reward_ticket_legendary"
@@ -2105,11 +2065,6 @@
                     "amount": "[1,3]",
                     "chance": 1.0,
                     "item": "minecraft:nether_star"
-                },
-                {
-                    "amount": "[9,13]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
                 },
                 {
                     "amount": "[1,1]",
@@ -2129,11 +2084,6 @@
                     "item": "minecraft:nether_star"
                 },
                 {
-                    "amount": "[10,14]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
-                },
-                {
                     "amount": "[1,1]",
                     "chance": 0.02,
                     "item": "additions:greedycraft-reward_ticket_legendary"
@@ -2149,11 +2099,6 @@
                     "amount": "[1,3]",
                     "chance": 1.0,
                     "item": "minecraft:nether_star"
-                },
-                {
-                    "amount": "[5,9]",
-                    "chance": 1.0,
-                    "item": "ae2wtlib:infinity_booster_card"
                 },
                 {
                     "amount": "[1,1]",
