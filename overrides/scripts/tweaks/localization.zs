@@ -685,7 +685,6 @@ val localizationMap as string[string][string] = {
         "jaopca.entry.DraconicAlloy" : "神龙金属",
         "jaopca.entry.EnergeticSilver" : "充能银",
         "jaopca.entry.Hafnium" : "铪",
-        "jaopca.entry.GelidEnderium" : "极寒末影",
         "jaopca.entry.Darkice" : "黑冰",
         "jaopca.entry.Mithminite" : "秘金",
         "jaopca.entry.Primordial" : "元金",

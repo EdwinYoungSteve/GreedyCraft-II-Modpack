@@ -451,15 +451,6 @@
         "weight": 30
     },
     {
-        "content": "redstonearsenal:material:32",
-        "amount": {
-            "min": 1,
-            "max": 12
-        },
-        "unitWorth": 3000,
-        "weight": 40
-    },
-    {
         "content": "additions:greedycraft-lucky_clover",
         "amount": {
             "min": 1,

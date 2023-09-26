@@ -18,9 +18,6 @@ val VOLUME_BLOCK = 1296;
 val VOLUME_INGOT = 144;
 val VOLUME_NUGGET = 16;
 
-//Alloy.removeRecipe(<liquid:mirion> * 72, [<liquid:terrasteel> * 18, <liquid:manasteel> * 18, <liquid:elementium> * 18, <liquid:cobalt> * 18, <liquid:glass> * 125]);
-//Alloy.removeRecipe(<liquid:mirion>);
-
 Alloy.removeRecipe(<liquid:yrdeen_fluid>);
 Alloy.removeRecipe(<liquid:decurrium>);
 Alloy.removeRecipe(<liquid:liquidrotiron>);
@@ -35,7 +32,6 @@ Alloy.addRecipe(<liquid:emerald> * 2, [<liquid:experience> * 3, <liquid:redstone
 Alloy.addRecipe(<liquid:end_steel> * (VOLUME_INGOT * 2), [<liquid:obsidian> * (VOLUME_INGOT * 2), <liquid:dark_steel> * (VOLUME_INGOT * 2), <liquid:ender> * 250]);
 Alloy.addRecipe(<liquid:experience> * 16, [<liquid:blood> * 8, <liquid:emerald> * 1, <liquid:gold> * 1]);
 Alloy.addRecipe(<liquid:fierymetal> * 2, [<liquid:iron> * 2, <liquid:pyrotheum> * 1, <liquid:lava> * 1]);
-Alloy.addRecipe(<liquid:fluxed_electrum> * (VOLUME_INGOT * 2), [<liquid:electrum> * (VOLUME_INGOT * 2), <liquid:redstone> * 100]);
 Alloy.addRecipe(<liquid:fusion_matrix> * 2, [<liquid:manyullyn> * 2, <liquid:adamant_fluid> * 1, <liquid:enderium> * 2]);
 Alloy.addRecipe(<liquid:liquid_chocolate> * 2, [<liquid:chocolate_liquor> * 1, <liquid:milk> * 1]);
 Alloy.addRecipe(<liquid:modularium> * (VOLUME_INGOT * 2), [<liquid:conductive_iron> * VOLUME_INGOT, <liquid:bronze> * VOLUME_INGOT]);
@@ -46,7 +42,6 @@ Alloy.addRecipe(<liquid:stainless_steel> * (VOLUME_INGOT * 4), [<liquid:manganes
 Alloy.addRecipe(<liquid:manganese_steel> * (VOLUME_INGOT * 2), [<liquid:steel> * (VOLUME_INGOT * 2), <liquid:manganese> * VOLUME_INGOT]);
 Alloy.addRecipe(<liquid:terra_alloy> * 2, [<liquid:cytosinite> * 1, <liquid:cryonium> * 1, <liquid:infernium> * 1, <liquid:titanium> * 1]);
 //Alloy.addRecipe(<liquid:mirion> * 72, [<liquid:terrasteel> * 18, <liquid:manasteel> * 18, <liquid:elementium> * 18, <liquid:gaia> * 18]);
-Alloy.addRecipe(<liquid:gelid_enderium> * 144, [<liquid:enderium> * 144, <liquid:cryotheum> * 1000]);
 Alloy.addRecipe(<liquid:reditrite> * 4, [<liquid:obsidiorite_fluid> * 9, <liquid:osram_fluid> * 2]);
 Alloy.addRecipe(<liquid:densite> * 1, [<liquid:osram_fluid> * 1, <liquid:seismum_fluid> * 1]); 
 Alloy.addRecipe(<liquid:dyonite_fluid> * 3, [<liquid:triberium_fluid> * 3, <liquid:fractum_fluid> * 1, <liquid:densite> * 1]);

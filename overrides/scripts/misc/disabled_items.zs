@@ -1666,9 +1666,7 @@ val disabledRecipeRegex as string[] = [
     "^actuallyadditions:recipes2[56789].$",
     "^actuallyadditions:recipes3[012].$",
     "^actuallyadditions:recipes33[01234567]$",
-    "^thermalfoundation:((tool)|(armor))(.*)$",
-    "^redstonearsenal:((tool)|(armor))(.*)$",
-    "^redstonerepository:((tool)|(armor))(.*)$"
+    "^thermalfoundation:((tool)|(armor))(.*)$"
 ];
 
 val outputBlacklist as IItemStack[] = [

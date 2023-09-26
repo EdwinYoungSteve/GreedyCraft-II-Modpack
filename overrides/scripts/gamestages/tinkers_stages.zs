@@ -14,8 +14,6 @@ val materialStages as string[string] = {
     "ma.supremium": "hardmode",
     "osmiridium": "hardmode",
     "osgloglas": "hardmode",
-    "gelid_enderium": "skilled_engineer",
-    "gelid_gem": "skilled_engineer",
     "infinity_metal": "wielder_of_infinity",
     "chaotic_metal": "awakened",
     "draconic_metal": "wyvern",

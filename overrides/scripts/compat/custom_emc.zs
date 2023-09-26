@@ -60,7 +60,7 @@ val emcMapping as long[IIngredient] = {
     <enderio:block_enderman_skull:0> : 2048 as long,
     <minecraft:skull:3> : 32 as long,
     <additions:greedycraft-lucky_clover:0> : 0 as long,
-    <redstonearsenal:material:32> : 1500 as long,
+    <contenttweaker:ingot_electrum_flux> : 1500 as long,
     <minecraft:dragon_breath:0> : 0 as long,
     <mysticalagriculture:wither_skeleton_essence:0> : 1600 as long,
     <mysticalagriculture:wither_skeleton_seeds:0> : 4200 as long,

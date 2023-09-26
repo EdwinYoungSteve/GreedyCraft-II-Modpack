@@ -155,14 +155,14 @@ FusionCrafting.add(<draconicevolution:reactor_core>, <draconicevolution:chaos_sh
     <ore:metalEvery>
 ]);
 FusionCrafting.add(<additions:electronium_ingot>, <tconevo:material>, 0, 100000000, [ 
-    <redstonearsenal:material:32>,
-    <redstonerepository:material:1>,
-    <redstonearsenal:material:32>,
-    <redstonerepository:material:1>,
-    <redstonearsenal:material:32>,
-    <redstonerepository:material:1>,
-    <redstonearsenal:material:32>,
-    <redstonerepository:material:1>
+    <contenttweaker:ingot_electrum_flux>,
+    <contenttweaker:ingot_gelid_enderium>,
+    <contenttweaker:ingot_electrum_flux>,
+    <contenttweaker:ingot_gelid_enderium>,
+    <contenttweaker:ingot_electrum_flux>,
+    <contenttweaker:ingot_gelid_enderium>,
+    <contenttweaker:ingot_electrum_flux>,
+    <contenttweaker:ingot_gelid_enderium>
 ]);
 FusionCrafting.add(<additions:greedycraft-creative_shard>, <draconicevolution:chaotic_core>, 3, 2147483648, [
     <ore:ingotCosmilite>,

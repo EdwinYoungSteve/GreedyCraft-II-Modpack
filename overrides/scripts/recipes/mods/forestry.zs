@@ -423,11 +423,6 @@ val seedRecipes as IIngredient[][][IItemStack] = {
         [essence[4], base[4], essence[4]], 
         [<mysticalagriculture:chunk:18>, essence[4], <mysticalagriculture:chunk:18>]
     ],
-    <mysticalagriculture:fluxed_electrum_seeds> : [
-        [<ore:ingotElectrumFlux>, essence[4], <ore:ingotElectrumFlux>], 
-        [essence[4], base[4], essence[4]], 
-        [<ore:ingotElectrumFlux>, essence[4], <ore:ingotElectrumFlux>]
-    ],
     <mysticalagriculture:sheep_seeds> : [
         [<mysticalagriculture:chunk:10>, essence[2], <mysticalagriculture:chunk:10>], 
         [essence[2], base[2], essence[2]], 

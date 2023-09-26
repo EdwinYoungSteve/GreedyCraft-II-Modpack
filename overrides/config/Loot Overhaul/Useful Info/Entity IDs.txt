@@ -520,7 +520,6 @@ randomthings:weathercloud - 517
 randomthings:timeaccelerator - 518
 randomthings:spectreilluminator - 519
 randomthings:eclipsedclock - 520
-redstonearsenal:flux_arrow - 521
 roughmobsrevamped:bosszombie - 522
 roughmobsrevamped:bossskeleton - 523
 roughmobsrevamped:hostilebat - 524

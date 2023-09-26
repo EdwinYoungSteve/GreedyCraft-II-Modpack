@@ -2746,8 +2746,6 @@ reccomplex:structure_generator - 2743
 reccomplex:maze_generator - 2744
 reccomplex:weighted_command_block - 2745
 reccomplex:spawn_script - 2746
-redstonearsenal:storage - 2747
-redstonerepository:storage - 2748
 rusticthaumaturgy:cinderfire_wort - 2749
 rusticthaumaturgy:shimmerdew_wort - 2750
 rusticthaumaturgy:viscous_wort - 2751

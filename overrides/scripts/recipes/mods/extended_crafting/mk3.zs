@@ -89,11 +89,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <additions:mekaddon-scientifici
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <additions:mekaddon-balance_core> * 2, [
 	[null, null, <ore:ingotDullium>, <thermalexpansion:florb>, <ore:ingotDullium>, null, null], 
-	[null, <thermalexpansion:florb>, <ore:ingotDullium>, <ore:ingotGelidEnderium>, <ore:ingotDullium>, <thermalexpansion:florb>, null], 
+	[null, <thermalexpansion:florb>, <ore:ingotDullium>, <contenttweaker:ingot_gelid_enderium>, <ore:ingotDullium>, <thermalexpansion:florb>, null], 
 	[<ore:ingotDullium>, <ore:ingotDullium>, <ore:ingotDecurrium>, <ore:ingotDecurrium>, <ore:ingotDecurrium>, <ore:ingotDullium>, <ore:ingotDullium>], 
-	[<thermalexpansion:florb>, <ore:ingotGelidEnderium>, <ore:ingotDecurrium>, <ore:ingotBalancedMatrix>, <ore:ingotDecurrium>, <ore:ingotGelidEnderium>, <thermalexpansion:florb>], 
+	[<thermalexpansion:florb>, <contenttweaker:ingot_gelid_enderium>, <ore:ingotDecurrium>, <ore:ingotBalancedMatrix>, <ore:ingotDecurrium>, <contenttweaker:ingot_gelid_enderium>, <thermalexpansion:florb>], 
 	[<ore:ingotDullium>, <ore:ingotDullium>, <ore:ingotDecurrium>, <ore:ingotDecurrium>, <ore:ingotDecurrium>, <ore:ingotDullium>, <ore:ingotDullium>], 
-	[null, <thermalexpansion:florb>, <ore:ingotDullium>, <ore:ingotGelidEnderium>, <ore:ingotDullium>, <thermalexpansion:florb>, null], 
+	[null, <thermalexpansion:florb>, <ore:ingotDullium>, <contenttweaker:ingot_gelid_enderium>, <ore:ingotDullium>, <thermalexpansion:florb>, null], 
 	[null, null, <ore:ingotDullium>, <thermalexpansion:florb>, <ore:ingotDullium>, null, null]
 ]);
 

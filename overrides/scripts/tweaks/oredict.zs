@@ -421,7 +421,6 @@ var oredictMap as IIngredient[][IOreDictEntry] = {
     <ore:singularityNickel> : [<avaritia:singularity:9>],
     <ore:singularityDiamond> : [<avaritia:singularity:10>],
     <ore:singularityEmerald> : [<avaritia:singularity:11>],
-    <ore:singularityElectrumFlux> : [<avaritia:singularity:12>],
     <ore:singularityPlatinum> : [<avaritia:singularity:13>],
     <ore:singularityIridium> : [<avaritia:singularity:14>],
     <ore:netherStarWithered> : [<ageofminecraft:withered_nether_star>],
