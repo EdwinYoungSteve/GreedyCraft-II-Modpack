@@ -1,0 +1,17 @@
+{
+	x: -17.5d,
+	y: -6.5d,
+	dependencies: [
+		"b5314b30"
+	],
+	tasks: [{
+		uid: "47ce6087",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:wireless_fluid_terminal",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

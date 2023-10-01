@@ -20,11 +20,11 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "NETHER",
-    "DRY",
-    "SPOOKY",
-    "WASTELAND",
     "MAGICAL",
+    "SPOOKY",
+    "NETHER",
+    "WASTELAND",
+    "DRY",
     "HOT"
   ],
   "BiomeManager Entries": {},

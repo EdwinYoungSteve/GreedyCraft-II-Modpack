@@ -1,0 +1,17 @@
+{
+	x: -17.5d,
+	y: -4.5d,
+	dependencies: [
+		"b5314b30"
+	],
+	tasks: [{
+		uid: "db598425",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:wireless_pattern_terminal",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

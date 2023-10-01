@@ -8,7 +8,6 @@
 		""
 	],
 	hide_dependency_lines: true,
-	min_required_dependencies: -106,
 	dependencies: [
 		"7c9cd29d",
 		"30567050",

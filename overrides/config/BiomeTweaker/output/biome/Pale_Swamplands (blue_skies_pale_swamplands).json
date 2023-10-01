@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SWAMP",
     "PLAINS",
+    "MAGICAL",
     "SNOWY",
-    "MAGICAL"
+    "SWAMP"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

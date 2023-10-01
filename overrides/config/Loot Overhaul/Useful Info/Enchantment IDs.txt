@@ -304,25 +304,25 @@ randomthings:magnetic
    - Max Level: 1
 
 
-endercore:autosmelt
-   - Id: 37
-   - Rarity: RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
 endercore:xpboost
-   - Id: 38
+   - Id: 37
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
    - Max Level: 3
 
 
-enderio:witherarrow
+endercore:autosmelt
+   - Id: 38
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+enderio:soulbound
    - Id: 39
-   - Rarity: UNCOMMON
+   - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1
    - Max Level: 1
@@ -336,16 +336,8 @@ enderio:repellent
    - Max Level: 4
 
 
-enderio:soulbound
-   - Id: 41
-   - Rarity: VERY_RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
 enderio:witherweapon
-   - Id: 42
+   - Id: 41
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -353,9 +345,17 @@ enderio:witherweapon
 
 
 enderio:shimmer
-   - Id: 43
+   - Id: 42
    - Rarity: VERY_RARE
    - Treasure: true
+   - Min Level: 1
+   - Max Level: 1
+
+
+enderio:witherarrow
+   - Id: 43
+   - Rarity: UNCOMMON
+   - Treasure: false
    - Min Level: 1
    - Max Level: 1
 

@@ -192,8 +192,6 @@ refined_obsidian                                  ([no block])                  
 refined_glowstone                                 ([no block])                                                                     = 熔融强化荧石
 dark_matter                                       ([no block])                                                                     = 暗流质
 red_matter                                        ([no block])                                                                     = 红流质
-fluxed_electrum                                   ([no block])                                                                     = 熔融红石琥珀金
-gelid_enderium                                    ([no block])                                                                     = 熔融极寒末影
 thaumium                                          ([no block])                                                                     = 熔融神秘
 void_metal                                        ([no block])                                                                     = 熔融虚空金属
 primal_metal                                      ([no block])                                                                     = 熔融元金
