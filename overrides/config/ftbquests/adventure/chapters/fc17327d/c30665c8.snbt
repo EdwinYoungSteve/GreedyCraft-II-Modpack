@@ -46,11 +46,6 @@
 		count: 16
 	},
 	{
-		uid: "6e42359e",
-		type: "random",
-		table: 0
-	},
-	{
 		uid: "eb471cc7",
 		type: "xp",
 		xp: 50
@@ -65,5 +60,10 @@
 		type: "item",
 		item: "minecraft:torch",
 		count: 32
+	},
+	{
+		uid: "25f17b51",
+		type: "item",
+		item: "vaultopic:view_small"
 	}]
 }

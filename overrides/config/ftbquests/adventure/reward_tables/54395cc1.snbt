@@ -46,11 +46,6 @@
 		item: "minecraft:end_crystal"
 	},
 	{
-		item: "ae2wtlib:infinity_booster_card",
-		count: 10,
-		random_bonus: 10
-	},
-	{
 		item: "actuallyadditions:block_crystal",
 		random_bonus: 1
 	},
@@ -151,11 +146,6 @@
 		item: "botania:manaresource",
 		count: 6,
 		random_bonus: 6
-	},
-	{
-		item: "redstonearsenal:material 1 32",
-		count: 4,
-		random_bonus: 4
 	},
 	{
 		item: {
@@ -726,18 +716,6 @@
 	{
 		item: "additions:greedycraft-medkit_big",
 		random_bonus: 2
-	},
-	{
-		item: "openmodularturrets:machine_gun_turret",
-		random_bonus: 4
-	},
-	{
-		item: "openmodularturrets:ammo_meta 1 1",
-		random_bonus: 640
-	},
-	{
-		item: "openmodularturrets:turret_base 1 3",
-		random_bonus: 3
 	},
 	{
 		item: "tinymobfarm:iron_farm"

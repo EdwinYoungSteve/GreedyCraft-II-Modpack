@@ -1,0 +1,14 @@
+{
+	x: -13.5d,
+	y: 10.5d,
+	dependencies: [
+		"663562f7"
+	],
+	tasks: [{
+		uid: "d6513a63",
+		type: "item",
+		items: [{
+			item: "ae2fc:fluid_assembler"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -11.5d,
+	y: 2.0d,
+	dependencies: [
+		"bb69a736"
+	],
+	tasks: [{
+		uid: "e3addc27",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:matter_cannon",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: 6.5d,
+	dependencies: [
+		"4028b841"
+	],
+	tasks: [{
+		uid: "3d581237",
+		type: "item",
+		items: [{
+			item: "rf-capability-adapter:aecapabilityadapter"
+		}]
+	}]
+}

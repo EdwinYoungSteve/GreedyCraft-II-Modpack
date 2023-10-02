@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: 6.5d,
+	dependencies: [
+		"00536756"
+	],
+	tasks: [{
+		uid: "db376ee1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 460"
+		}]
+	},
+	{
+		uid: "b58505ff",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:memory_card",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

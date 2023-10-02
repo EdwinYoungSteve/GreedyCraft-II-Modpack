@@ -1,0 +1,28 @@
+{
+	x: -9.5d,
+	y: 4.0d,
+	dependencies: [
+		"317b6d58"
+	],
+	tasks: [{
+		uid: "15faaf94",
+		type: "item",
+		items: [{
+			item: "packagedauto:packager"
+		}]
+	},
+	{
+		uid: "1a9ac4d9",
+		type: "item",
+		items: [{
+			item: "packagedauto:encoder"
+		}]
+	},
+	{
+		uid: "0e34cf6f",
+		type: "item",
+		items: [{
+			item: "packagedauto:unpackager"
+		}]
+	}]
+}

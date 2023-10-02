@@ -1,0 +1,14 @@
+{
+	x: -11.5d,
+	y: 4.0d,
+	dependencies: [
+		"cb35094b"
+	],
+	tasks: [{
+		uid: "11b866e8",
+		type: "item",
+		items: [{
+			item: "packagedauto:me_package_component"
+		}]
+	}]
+}

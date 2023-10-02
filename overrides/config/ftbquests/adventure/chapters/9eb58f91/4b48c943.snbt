@@ -1,0 +1,16 @@
+{
+	x: -15.5d,
+	y: 2.0d,
+	dependencies: [
+		"cb35094b"
+	],
+	tasks: [{
+		uid: "75a1e58d",
+		type: "item",
+		items: [{
+			item: "aenetvistool:net_visualizer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
