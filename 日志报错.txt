@@ -55,10 +55,7 @@ java.lang.IllegalArgumentException: Invalid ingredient found. Parameter Name: ca
 [19:29:05] [Server thread/INFO]: Attempting to read config Triumph.txt
 [19:29:06] [Server thread/ERROR]: Parsing error loading built-in advancement aether_legacy:recipes/tools/zanite_ring
 com.google.gson.JsonSyntaxException: Unknown recipe 'aether_legacy:zanite_ring'
-进度大量报错
-
-天境，召唤师和朦胧有大量成就日志报错
-
+进度大量报错，推测是aeble直接屏蔽了配方
 
 rec结构里有失效生物
 [19:31:09] [Server thread/WARN]: Tried to add entity pvj:pvj_starfish but it was marked as removed already
