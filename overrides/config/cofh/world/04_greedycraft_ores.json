@@ -324,12 +324,12 @@
                 }],
                 "outline-block": [{
                         "name": "minecraft:leaves",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 10
                     },
                     {
                         "name": "minecraft:log",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 30
                     },
                     {
@@ -398,7 +398,7 @@
                     },
                     {
                         "name": "thermalfoundation:ore_fluid",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 10
                     }
                 ],
@@ -428,27 +428,27 @@
                 "useMaterial": true,
                 "crust": [{
                         "name": "biomesoplenty:hive",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 70
                     },
                     {
                         "name": "biomesoplenty:hive",
-                        "metadata": 2,
+                        "properties": 2,
                         "weight": 15
                     },
                     {
                         "name": "biomesoplenty:hive",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 10
                     },
                     {
                         "name": "biomesoplenty:hive",
-                        "metadata": 0,
+                        "properties": 0,
                         "weight": 4
                     },
                     {
                         "name": "biomesoplenty:honey_block",
-                        "metadata": 0,
+                        "properties": 0,
                         "weight": 1
                     }
                 ],
@@ -504,17 +504,17 @@
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 3
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 2,
+                        "properties": 2,
                         "weight": 10
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 2
                     }
                 ],
@@ -564,34 +564,34 @@
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 3
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 2,
+                        "properties": 2,
                         "weight": 10
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 2
                     }
                 ],
                 "hollow": true,
                 "filler": [{
                         "name": "aether_legacy:aercloud",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 30
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 2,
+                        "properties": 2,
                         "weight": 50
                     },
                     {
                         "name": "aether_legacy:aercloud",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 20
                     }
                 ],
@@ -912,7 +912,7 @@
                 "type": "large-vein",
                 "block": [{
                         "name": "minecraft:leaves",
-                        "metadata": 4,
+                        "properties": 4,
                         "weight": 70
                     },
                     {
@@ -1072,7 +1072,7 @@
                     },
                     {
                         "name": "minecraft:stone",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 97
                     }
                 ],
@@ -1100,7 +1100,7 @@
                     },
                     {
                         "name": "minecraft:stone",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 97
                     }
                 ],
@@ -1128,7 +1128,7 @@
                     },
                     {
                         "name": "minecraft:stone",
-                        "metadata": 5,
+                        "properties": 5,
                         "weight": 97
                     }
                 ],
@@ -1200,7 +1200,7 @@
                 "type": "sparse-cluster",
                 "block": [{
                     "name": "astralsorcery:blockcustomore",
-                    "metadata": 1,
+                    "properties": 1,
                     "weight": 100
                 }],
                 "material": "minecraft:stone",

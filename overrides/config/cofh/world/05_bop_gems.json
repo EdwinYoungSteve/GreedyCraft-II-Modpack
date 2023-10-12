@@ -8,7 +8,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 1,
+                        "properties": 1,
                         "weight": 100
                     }
                 ],
@@ -44,7 +44,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 2,
+                        "properties": 2,
                         "weight": 100
                     }
                 ],
@@ -80,7 +80,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 3,
+                        "properties": 3,
                         "weight": 100
                     }
                 ],
@@ -120,7 +120,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 4,
+                        "properties": 4,
                         "weight": 100
                     }
                 ],
@@ -156,7 +156,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 5,
+                        "properties": 5,
                         "weight": 100
                     }
                 ],
@@ -192,7 +192,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 6,
+                        "properties": 6,
                         "weight": 100
                     }
                 ],
@@ -228,7 +228,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 7,
+                        "properties": 7,
                         "weight": 100
                     }
                 ],
@@ -264,7 +264,7 @@
                 "block": [
                     {
                         "name": "biomesoplenty:gem_ore",
-                        "metadata": 0,
+                        "properties": 0,
                         "weight": 100
                     }
                 ],
