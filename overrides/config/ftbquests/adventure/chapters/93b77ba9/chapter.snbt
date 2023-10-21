@@ -1,6 +1,6 @@
 {
-	title: "药剂",
+	title: "进阶科技",
 	always_invisible: false,
-	group: -365778205,
+	group: 0,
 	default_quest_shape: ""
 }

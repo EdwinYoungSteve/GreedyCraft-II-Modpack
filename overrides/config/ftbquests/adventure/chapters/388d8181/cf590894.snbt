@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "75a4fb10",
+		type: "item",
+		items: [{
+			item: "gct_mobs:elementine_ingot"
+		}]
+	}]
+}

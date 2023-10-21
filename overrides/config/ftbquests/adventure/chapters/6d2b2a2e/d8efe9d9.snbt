@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "27135637",
+		type: "item",
+		items: [{
+			item: "gct_mobs:wavite_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "科研认知(近地)",
+	icon: "modularmachinery:itemconstructtool",
+	always_invisible: false,
+	group: -1816691799,
+	default_quest_shape: ""
+}

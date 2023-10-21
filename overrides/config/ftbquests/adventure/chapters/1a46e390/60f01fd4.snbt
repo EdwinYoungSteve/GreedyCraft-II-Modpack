@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "38ce07b3",
+		type: "item",
+		items: [{
+			item: "gct_mobs:greed_ingot"
+		}]
+	}]
+}
