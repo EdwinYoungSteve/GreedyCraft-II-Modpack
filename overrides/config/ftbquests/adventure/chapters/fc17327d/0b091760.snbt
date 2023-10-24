@@ -55,5 +55,15 @@
 		uid: "9e7564a3",
 		type: "xp",
 		xp: 20
+	},
+	{
+		uid: "21c064cc",
+		type: "item",
+		item: "tconstruct:tooltables 1 4"
+	},
+	{
+		uid: "513bdf2c",
+		type: "item",
+		item: "conarm:armorstation"
 	}]
 }
