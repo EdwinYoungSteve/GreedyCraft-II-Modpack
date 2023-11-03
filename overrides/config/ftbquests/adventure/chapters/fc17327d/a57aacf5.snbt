@@ -25,7 +25,7 @@
 		uid: "bf883fac",
 		type: "item",
 		item: "tconstruct:materials",
-		count: 256
+		count: 64
 	},
 	{
 		uid: "53d746d8",

@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "01fb8feb",
+		type: "item",
+		items: [{
+			item: "rustic:brewing_barrel"
+		}]
+	}]
+}

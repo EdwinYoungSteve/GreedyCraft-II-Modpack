@@ -2,6 +2,6 @@
 	title: "【冒险·玖】贪婪归一",
 	icon: "gct_mobs:greed_ingot",
 	always_invisible: false,
-	group: 689139086,
+	group: 1648588975,
 	default_quest_shape: ""
 }

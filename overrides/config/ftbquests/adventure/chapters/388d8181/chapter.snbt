@@ -2,6 +2,6 @@
 	title: "【冒险·捌】元素时代",
 	icon: "gct_mobs:elementine_ingot",
 	always_invisible: false,
-	group: 689139086,
+	group: 1648588975,
 	default_quest_shape: ""
 }

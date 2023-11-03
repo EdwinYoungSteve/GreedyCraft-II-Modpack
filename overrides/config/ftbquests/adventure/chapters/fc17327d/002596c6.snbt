@@ -38,11 +38,6 @@
 		count: 5
 	},
 	{
-		uid: "6cc12ba0",
-		type: "item",
-		item: "prefab:item_start_house"
-	},
-	{
 		uid: "7eef2c41",
 		type: "item",
 		item: "minecraft:bread",

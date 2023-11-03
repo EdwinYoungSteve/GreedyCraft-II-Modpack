@@ -1,0 +1,69 @@
+{
+	title: "冒险下",
+	icon: {
+		id: "tconstruct:broadsword",
+		tag: {
+			TinkerData: {
+				Materials: [
+					"moretcon.trichromadentium",
+					"moretcon.trichromadentium",
+					"moretcon.trichromadentium"
+				],
+				Modifiers: [
+					"toolleveling"
+				]
+			},
+			Stats: {
+				Durability: 10186,
+				HarvestLevel: 8,
+				Attack: 19.0f,
+				MiningSpeed: 20.0f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 5
+			},
+			StatsOriginal: {
+				Durability: 10186,
+				HarvestLevel: 8,
+				Attack: 19.0f,
+				MiningSpeed: 20.0f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3
+			},
+			Special: {
+				Categories: [
+					"weapon",
+					"tool"
+				]
+			},
+			Modifiers: [{
+				identifier: "unnatural",
+				color: -8947849,
+				level: 1
+			},
+			{
+				identifier: "coldblooded",
+				color: -8947849,
+				level: 1
+			},
+			{
+				identifier: "moretcon.trichromatic",
+				color: -8947849,
+				level: 1
+			},
+			{
+				identifier: "toolleveling",
+				color: 16777215,
+				level: 1
+			}],
+			Traits: [
+				"unnatural",
+				"coldblooded",
+				"moretcon.trichromatic",
+				"toolleveling"
+			]
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

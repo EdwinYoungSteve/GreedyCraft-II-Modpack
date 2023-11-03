@@ -20,7 +20,7 @@
 		uid: "190af5bf",
 		type: "item",
 		item: "tconstruct:materials",
-		count: 512
+		count: 64
 	},
 	{
 		uid: "2eea3a27",

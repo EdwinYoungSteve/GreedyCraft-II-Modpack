@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "2b0f1003",
+		type: "item",
+		items: [{
+			item: "tcomplement:high_oven_controller"
+		}]
+	}]
+}

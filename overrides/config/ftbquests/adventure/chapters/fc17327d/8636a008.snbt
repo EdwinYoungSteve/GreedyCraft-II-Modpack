@@ -49,28 +49,8 @@
 		item: "minecraft:iron_pickaxe"
 	},
 	{
-		uid: "e6b4296a",
+		uid: "8f8bb71b",
 		type: "item",
-		item: "danknull:dank_null_2"
-	},
-	{
-		uid: "5d528324",
-		type: "item",
-		item: "minecraft:leather_helmet"
-	},
-	{
-		uid: "02fb4b3b",
-		type: "item",
-		item: "minecraft:leather_chestplate"
-	},
-	{
-		uid: "5cb4c5f1",
-		type: "item",
-		item: "minecraft:leather_leggings"
-	},
-	{
-		uid: "0a8cf6d3",
-		type: "item",
-		item: "minecraft:leather_boots"
+		item: "danknull:dank_null_0"
 	}]
 }

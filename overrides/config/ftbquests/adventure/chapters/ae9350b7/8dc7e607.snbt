@@ -22,13 +22,13 @@
 		uid: "1994879e",
 		type: "item",
 		item: "minecraft:sand",
-		count: 256
+		count: 64
 	},
 	{
 		uid: "c5781b96",
 		type: "item",
 		item: "minecraft:glass",
-		count: 320
+		count: 64
 	},
 	{
 		uid: "67a09ffc",
